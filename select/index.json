@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きみの隣に。",
+  "base_artist": "まつり",
+  "createdAt": "2026-02-09T16:31:43.443095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみの隣に。",
+      "artist": "まつり",
+      "has_synced": false,
+      "path": "select/pl_01_きみの隣に。_まつり.txt"
+    }
+  ]
+}
